@@ -1,0 +1,9 @@
+[package]
+name = "mensonrbx/remote"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+authors = ["mensonrbx <mensonrbx@gmail.com>"]
+description = "Module for creating Remote Events, Functions and Unreliables on Server and fetching on client. Free to use forever."
+realm = "shared"
+
+[dependencies]
