@@ -2,7 +2,7 @@
         "dependencies": {
                 "Signal": {
                         "name": "MensonRbx/Signal.git",
-                        "version": "latest",
+                        "version": "latest"
                 }
         }
 }
