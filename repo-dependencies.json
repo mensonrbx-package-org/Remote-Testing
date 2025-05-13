@@ -1,5 +1,8 @@
 {
- "dependencies": {
-    "MensonRbx/Signal.git"
- },
+        "dependencies": {
+                "Signal": {
+                        "name": "MensonRbx/Signal.git",
+                        "version": "latest",
+                }
+        },
 }
