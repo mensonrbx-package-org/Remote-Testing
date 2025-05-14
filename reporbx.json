@@ -1,4 +1,5 @@
 {
+        "name": "MensonRbx/Remote",
         "dependencies": {
                 "Signal": {
                         "name": "MensonRbx/Signal.git",
